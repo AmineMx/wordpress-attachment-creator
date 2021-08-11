@@ -1,0 +1,17 @@
+{
+  "name": "aminemx/attachment-creator",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Amine Kaddache",
+      "email": "psj.amine@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "AttachmentCreator\\": "src/"
+    }
+  }
+}
